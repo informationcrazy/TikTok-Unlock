@@ -254,3 +254,4 @@ https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/Tik
 ```
 -*snssdk.com, -*amemv.com
 ```
+如Tiktok更新后无法使用 请删除Tiktok及描述文件 重新下载 之后再次按以上流程配置相应规则即可
